@@ -3,3 +3,9 @@
 Exploration of Lending Club Loan Database (2007 to 20016)
 
 Link to the database: https://www.kaggle.com/datasets/adarshsng/lending-club-loan-data-csv/data
+
+- MarcRomanPorras_PRA.py contiene un archivo .py del código usado para generar la VIZ.
+- MarcRomanPorras_PRA_all.zip es un fichero comprimido que contiene en su interior el notebook de Jupyter en formato .html con la VIZ al completo que se muestra y describe en el video presentación. No se ha subido a este repositorio al pesar 95 Mb.
+- loan_data_sweetviz_report.html contiene la exportación ejecutada desde el notebook .html anterior con el análisis visual del conjunto usada con esta librería.
+- Justificación conjunto de datos.pdf contiene el primer entregable con la justificación y entendibilidad del conjunto de datos.
+
